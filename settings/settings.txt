@@ -1,0 +1,8 @@
+
+# Lines, started with "#" are ignored. They are used for tips.
+
+color scheme: general
+# availible values: general, classic, gray, green
+
+cell size: 25
+#specified cell size of board in pixels
